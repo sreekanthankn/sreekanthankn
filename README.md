@@ -7,16 +7,11 @@ I bridge the gap between security research and practical business applications t
 
 ---
 
-## 🛡️ Security Research Projects
-
-I specialize in building **Open Source Python Tools** for penetration testing and network auditing. All tools are available under the MIT License.
-
 | Project | Current Version | Description |
 | :--- | :--- | :--- |
-| **[Netscan Series]([https://github.com/sreekanthankn/Netmap-Vulnerability-Scanner](https://github.com/sreekanthankn/Network_Security_Suite_V_10.0))** | **V 10.0** | A comprehensive vulnerability scanner. Features include multi-threaded port scanning, banner grabbing, and a **Brute-Force module** for testing weak passwords on open services. Includes automated remediation advice. |
-| **[Stealth Scan Pro]([https://github.com/sreekanthankn](https://github.com/sreekanthankn/SYN_Scanner_GUI_Tool_V_7.0))** | **V 7.0** | A specialized **Kali Linux** desktop tool built with **Scapy**. Performs "Half-Open" SYN scans to map networks while evading standard firewall detection. |
-| **[MITM Intruder]([https://github.com/sreekanthankn](https://github.com/sreekanthankn/MITM-V_6.0))** | **V 6.0** | A Python-based interception proxy (similar to Burp Suite). Features a **Cluster Bomb Intruder** for payload fuzzing and a Repeater for manual request analysis. |
-
+| **[Netscan Series](https://github.com/sreekanthankn/Network_Security_Suite_V_10.0)** | **V 10.0** | A comprehensive vulnerability scanner. Features include multi-threaded port scanning, banner grabbing, and a **Brute-Force module** for testing weak passwords on open services. Includes automated remediation advice. |
+| **[Stealth Scan Pro](https://github.com/sreekanthankn/SYN_Scanner_GUI_Tool_V_7.0)** | **V 7.0** | A specialized **Kali Linux** desktop tool built with **Scapy**. Performs "Half-Open" SYN scans to map networks while evading standard firewall detection. |
+| **[MITM Intruder](https://github.com/sreekanthankn/MITM-V_6.0)** | **V 6.0** | A Python-based interception proxy (similar to Burp Suite). Features a **Cluster Bomb Intruder** for payload fuzzing and a Repeater for manual request analysis. |
 ---
 
 ## 💻 Tech Stack & Tools
